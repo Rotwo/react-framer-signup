@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /signup
+Allow: /
+Allow: /manifest.json
+Allow: /service-worker.js
+Allow: /assets/
+Sitemap: http
