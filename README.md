@@ -1,5 +1,5 @@
 # Daily Design
-This project was made using the concept of [DailyUI]("https://www.dailyui.co/")
+This project was made using the concept of [DailyUI](https://www.dailyui.co/)
 
 # React + TypeScript + Vite
 
